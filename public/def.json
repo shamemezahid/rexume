@@ -28,7 +28,7 @@
     "url": "mailto:harry.potter@ministry.magic.uk"
   },
   "contact": {
-    "show": false,
+    "show": true,
     "label": "Contact Me"
   },
   "links": {
