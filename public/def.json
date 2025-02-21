@@ -1,0 +1,151 @@
+{
+  "license": {
+    "text": "All personal data, including but not limited to biography, work history, and contact information, are proprietary and confidential. © All rights reserved to Harry James Potter. No license is granted to use, copy, modify, or distribute my personal information for any purpose without my explicit written permission. Unauthorized use, reproduction, or distribution of this personal information may violate applicable laws and could be subject to legal action."
+  },
+  "intro": {
+    "show": true,
+    "label": "Intro",
+    "name": "Harry James Potter",
+    "avatar": "https://cataas.com/cat?width=400&height=400",
+    "greetings": "Harry Potter",
+    "tagline": "Head Auror at Ministry of Magic",
+    "location": "Based in London, United Kingdom",
+    "quote": "It is our choices that show what we truly are, far more than our abilities."
+  },
+  "about": {
+    "show": true,
+    "label": "About Me",
+    "value": "Experienced wizard and Defense Against the Dark Arts specialist with a proven track record of defeating dark wizards. Graduate of Hogwarts School of Witchcraft and Wizardry, where I served as the youngest Seeker in a century for the Gryffindor Quidditch team. Led Dumbledore's Army and defeated Lord Voldemort. Currently serving as Head Auror at the Ministry of Magic, focusing on magical law enforcement and dark wizard capture."
+  },
+  "resume": {
+    "show": true,
+    "label": "View Resume",
+    "url": "www.ministry-of-magic.uk",
+    "download": "www.ministry-of-magic.uk/potter"
+  },
+  "email": {
+    "address": "harry.potter@ministry.magic.uk",
+    "url": "mailto:harry.potter@ministry.magic.uk"
+  },
+  "contact": {
+    "show": false,
+    "label": "Contact Me"
+  },
+  "links": {
+    "label": "Social & Portfolio Links",
+    "values": [
+      {
+        "label": "WizardingWorld",
+        "url": "https://www.wizardingworld.com/harry-potter",
+        "icon": "in"
+      },
+      {
+        "label": "Ministry Records",
+        "url": "https://ministry-of-magic.uk/auror-office",
+        "icon": "gh"
+      },
+      {
+        "label": "Dumbledore's Army",
+        "url": "https://www.da-alumni.edu",
+        "icon": ""
+      }
+    ]
+  },
+  "skills": {
+    "show": true,
+    "label": "Skills",
+    "values": [
+      {
+        "category": "Defense Spells",
+        "skills": [
+          "Expecto Patronum",
+          "Expelliarmus",
+          "Protego",
+          "Counter-Jinxes"
+        ]
+      },
+      {
+        "category": "Leadership",
+        "skills": [
+          "Team Management",
+          "Strategic Planning",
+          "Combat Training",
+          "Dark Wizard Tracking"
+        ]
+      }
+    ]
+  },
+  "experiences": {
+    "show": true,
+    "label": "Experiences",
+    "values": [
+      {
+        "workplace": "Ministry of Magic",
+        "website": "https://ministry-of-magic.uk",
+        "designation": "Head Auror",
+        "start": "May 1998",
+        "end": "Present",
+        "duration": "26 years as of 2024",
+        "responsibilities_label": "Responsibilities",
+        "responsibilities": [
+          "Lead investigations into Dark Magic activities",
+          "Train new Auror recruits",
+          "Coordinate with international magical law enforcement",
+          "Develop advanced defensive spell strategies"
+        ],
+        "shift": "Full Time",
+        "nature": "On-site",
+        "location": "London, UK"
+      }
+    ]
+  },
+  "education": {
+    "show": true,
+    "label": "Education",
+    "values": [
+      {
+        "institute": "Hogwarts School of Witchcraft and Wizardry",
+        "degree": "NEWT Level Education",
+        "result": "Outstanding in Defense Against the Dark Arts",
+        "activities_label": "Activities",
+        "activities": [
+          "Gryffindor Quidditch Team Captain",
+          "Founded and led Dumbledore's Army",
+          "Triwizard Tournament Champion"
+        ],
+        "start": "Sep 1991",
+        "end": "Jun 1998",
+        "year": "1991 to 1998",
+        "website": "https://www.hogwarts.edu",
+        "location": "Scotland, UK"
+      }
+    ]
+  },
+  "research": {
+    "show": true,
+    "label": "Research",
+    "values": [
+      {
+        "title": "Advanced Defensive Magic: The Power of Love-Based Protection Spells",
+        "authors": "Harry J. Potter, Hermione Granger, Ronald Weasley",
+        "conference": "International Conference on Magical Defense",
+        "year": "2020",
+        "abstract": "An analysis of ancient love-based protection spells and their modern applications in magical defense",
+        "URL": "https://magical-research.org/potter-defense",
+        "URL_label": "Research Link",
+        "presentation": "London Magical Academy"
+      }
+    ]
+  },
+  "achievements": {
+    "show": true,
+    "label": "Achievements",
+    "values": [
+      {
+        "title": "Order of Merlin",
+        "event": "First Class for defeating Lord Voldemort",
+        "url": "https://ministry-of-magic.uk/awards/order-of-merlin"
+      }
+    ]
+  }
+}
