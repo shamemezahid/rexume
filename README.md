@@ -1,8 +1,10 @@
-# Personal Portfolio Generator
+# REXUME - Personal Web Resume Generator
 
-A modern, customizable portfolio website built with Next.js that you can configure entirely through a JSON file. Perfect for showcasing your professional experience, skills, and achievements.
+A modern, customizable resume website built with Next.js that you can configure entirely through a JSON file. Perfect for showcasing your professional experience, skills, and more.
 
 ## Quick Start
+
+Clone the repository.
 
 Install the necessary packages and run the development server:
 
@@ -199,3 +201,20 @@ To learn more about Next.js, take a look at the following resources:
 The easiest way to deploy your portfolio is using the [Vercel Platform](https://vercel.com/new).
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## License
+
+The code in this project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+This means you are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+
+For more details on the code license, see:
+[https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
