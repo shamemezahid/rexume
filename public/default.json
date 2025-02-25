@@ -96,6 +96,24 @@
         "shift": "Full Time",
         "nature": "On-site",
         "location": "London, UK"
+      },
+      {
+        "workplace": "Ministry of Magic",
+        "website": "https://ministry-of-magic.uk",
+        "designation": "Head Auror",
+        "start": "May 1998",
+        "end": "Present",
+        "duration": "26 years as of 2024",
+        "responsibilities_label": "Responsibilities",
+        "responsibilities": [
+          "Lead investigations into Dark Magic activities",
+          "Train new Auror recruits",
+          "Coordinate with international magical law enforcement",
+          "Develop advanced defensive spell strategies"
+        ],
+        "shift": "Full Time",
+        "nature": "On-site",
+        "location": "London, UK"
       }
     ]
   },

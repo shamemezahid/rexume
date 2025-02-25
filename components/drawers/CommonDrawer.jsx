@@ -1,5 +1,5 @@
 import React from "react";
-import { SquareArrowUpIcon } from "lucide-react"; // Importing from lucide-react
+import { FileTextIcon, SquareArrowUpIcon } from "lucide-react"; // Importing from lucide-react
 import { Drawer } from "vaul";
 import SeparatorLine from "../utils/SeparatorLine";
 
@@ -11,8 +11,8 @@ const TriggerButton = React.forwardRef(({ icon: Icon, label, title, styles, ...p
     {...props}
   >
     <div className="flex flex-col">
-      <Icon strokeWidth={1.5} className="w-5 h-5 transition-all duration-500 group-hover:h-0 stroke-neutral-500 dark:stroke-neutral-400" />
-      <SquareArrowUpIcon strokeWidth={1.5} className="w-5 h-0 transition-all duration-500 group-hover:w-5 group-hover:h-5" /> 
+      <FileTextIcon strokeWidth={1.5} className="w-4 h-4 transition-all duration-500 group-hover:h-0 stroke-neutral-500 dark:stroke-neutral-400" />
+      <SquareArrowUpIcon strokeWidth={1.5} className="w-4 h-0 transition-all duration-500 group-hover:w-4 group-hover:h-4" /> 
     </div>
     {label}
   </button>

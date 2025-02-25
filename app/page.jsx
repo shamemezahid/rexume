@@ -11,13 +11,13 @@ import AboutSection from "@/components/sections/AboutSection";
 import LinksSection from "@/components/sections/LinksSection";
 import AccessibilityAccordion from "@/components/utils/AccessibilitySettings";
 import SectionWithTitle from "@/components/utils/SectionTitle";
-import def from "@/public/def";
+import default_data from "@/public/default";
 import Navigator from "@/components/utils/Navigator";
 import FooterSection from "@/components/sections/FooterSection";
 import SeparatorLine from "@/components/utils/SeparatorLine";
 
 export default function AltPage() {
-  const data = def;
+  const data = default_data;
   return (
     <>
       <div className="pt-8 flex flex-col md:justify-center min-h-screen dark:bg-neutral-900 transition-all duration-200 ease-in">
@@ -25,9 +25,6 @@ export default function AltPage() {
           {data?.intro?.show && (
             <div id="intro" className="flex flex-col">
               <IntroSection data={data} />
-              {data?.resume?.show && (
-                <ResumeDrawer data={data} label={data?.resume?.label}/>
-              )}
               {data?.about?.show && <AboutSection data={data} />}
             </div>
           )}

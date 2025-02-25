@@ -1,10 +1,10 @@
 import React from "react";
 import "./globals.css";
 
-import { Open_Sans } from "next/font/google";
+import { Noto_Sans } from "next/font/google";
 import { AccessibilityProvider } from "@/components/context/AccessibilityContext";
 
-const font = Open_Sans({ subsets: ["latin"] });
+const font = Noto_Sans({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Portfolio",
